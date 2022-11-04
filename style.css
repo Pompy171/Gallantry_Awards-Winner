@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+    top: 0;
+}
+
+.links a {
+    margin-top: 15px;
+}
+
+.Param_Vir_Chakra{
+    margin-top: 100px;
+}
+
+.pvir_1{
+    font-size: 20px;
+}
+
